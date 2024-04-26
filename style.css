@@ -1,8 +1,8 @@
 :root{
    --branco-principal: #FFFFFF;
    --cinza-secundadario: #525252;
-   --botao-preto: #000;
-   --cor-de-fundo: #000;
+   --botao-preto: #111;
+   --cor-de-fundo: #00030c;
 }
 
 body{
