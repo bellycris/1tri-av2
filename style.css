@@ -1,5 +1,5 @@
 :root{
-   --branco-principal: #ffffff;
+   --branco-principal: #FFFFFF;
    --cinza-secundadario: #525252;
    --botao-preto: #000;
    --cor-de-fundo: #4e806b;
@@ -10,5 +10,5 @@ body{
    color: var(--branco-principal);
 }
 .principal{
-   b
+   background-image: url(img/background.png)
 }
