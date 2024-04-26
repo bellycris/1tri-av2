@@ -2,7 +2,7 @@
    --branco-principal: #FFFFFF;
    --cinza-secundadario: #525252;
    --botao-preto: #000;
-   --cor-de-fundo: #4e806b;
+   --cor-de-fundo: #000;
 }
 
 body{
@@ -11,4 +11,9 @@ body{
 }
 .principal{
    background-image: url(img/Background.png)
+   background-repeat: no-repeat;
+   background-size: contain;
+}
+.container{
+   height: 100vh
 }
